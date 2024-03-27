@@ -7,7 +7,7 @@ function App() {
       <div className="App-header">
           <div className="navbar">
               <div>
-                    <a href={"landing_page"} className="home">Kacper Kicior | IT Enginieer</a>
+                    <a href={""} className="home">Kacper Kicior | IT Engineer</a>
               </div>
               <div>
                   <ul  className={"navlist content"}>
